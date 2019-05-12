@@ -11,7 +11,7 @@
     <repositories>
         <repository>
             <id>maven-repo</id>
-            <url>https://git.e-science.pl/ekalata235543/81a_EKalata_Maven/raw/maven/</url>
+            <url>https://github.com/Lirone29/mavenJen/raw/maven/</url>
         </repository>
     </repositories>
 
